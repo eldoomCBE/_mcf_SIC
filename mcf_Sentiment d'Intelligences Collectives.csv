@@ -1,17 +1,305 @@
 Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
-,SIC22,Sentiment d'Intelligences Collectives,,1,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"behaviour,proficiency,competency,competency"
-,SIC22-B1,🧠 Cognition,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-C1.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B2,💼 Compétences,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-C2.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B3,🎨 Créativité,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-C6.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B4,"↔️ Coopération ","<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-C3.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B5,↕️ Collaboration,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-C4.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B6,🔀 Coordination,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-C5.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B7,🔁 Synergie,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-S1.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B8,🔃 Stigmergie,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-S2.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B9,⬅️ Instrumentation,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-I1.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B10,➡️ Instrumentalisation,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-I2.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B11,🙌 Valorisation,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-V1.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
-,SIC22-B12,🌬 Volition,"<p><img src=""https://eldoomcbe.github.io/_mcf_SIC/assets/SIC-V2.png"" alt=""Cognition"" width=""404px""></p>",1,,,,,,,,,
+,SIC22,Sentiment d'Intelligences Collectives,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""jumbotron"">
+<h1 class=""text-center"">Sentiment d'Intelligences Collectives</h1>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card"">
+<div class=""card-body"">
+<p style=""text-align: justify;"">Le&nbsp;<strong><abbr class=""initialism"" title=""Sentiment d'Intelligences Collectives"">SIC</abbr></strong> est une tentative d'appr&eacute;ciation holistique de la capacit&eacute; d'un groupe &agrave; fonctionner comme une entit&eacute; coh&eacute;rente et intelligente, d&eacute;passant les comp&eacute;tences individuelles pour produire un r&eacute;sultat collectif sup&eacute;rieur. Ce sentiment repose sur la perception partag&eacute;e par les membres du groupe de leur efficacit&eacute; &agrave; interagir, collaborer, et innover ensemble, dans un contexte o&ugrave; les contributions de chacun sont int&eacute;gr&eacute;es, valoris&eacute;es, et optimis&eacute;es.</p>
+<hr>
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC.png"" alt=""Sentiment d'Intelligences Collectives"" width=""404px""></p>
+<p style=""text-align: justify;"">Le <strong><abbr class=""initialism"" title=""Sentiment d'Intelligences Collectives"">SIC</abbr></strong> englobe un ensemble de comp&eacute;tences et de comportements cl&eacute;s, organis&eacute;s autour de plusieurs dimensions essentielles <strong><span style=""color: #e03e2d;"">endog&egrave;nes</span></strong><strong>&nbsp;</strong>ou <strong><span style=""color: #3598db;"">exog&egrave;nes</span></strong>&nbsp;&agrave; l'individu et au groupe.</p>
+<div class=""alert alert-warning"">
+<h3><strong>☑️ Comportements pro sociaux du <abbr class=""initialism"" title=""Sentiment d'Intelligences Collectives"">SIC</abbr></strong></h3>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>🧠 Cognition Collective <span class=""badge badge-danger"">endog&egrave;ne</span><br></strong>Capacit&eacute; du groupe &agrave; traiter et &agrave; int&eacute;grer l'information de mani&egrave;re distribu&eacute;e, o&ugrave; chaque membre contribue &agrave; la m&eacute;moire, au raisonnement, et &agrave; la r&eacute;solution de probl&egrave;mes de mani&egrave;re synergique.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>✊ Comp&eacute;tences Partag&eacute;es <span class=""badge badge-primary"">exog&egrave;ne</span><br></strong>Mobilisation des aptitudes et savoir-faire individuels pour accomplir des objectifs communs, o&ugrave; la diversit&eacute; des comp&eacute;tences est per&ccedil;ue comme une richesse collective.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>🎨 Cr&eacute;ativit&eacute; <span class=""badge badge-danger"">endog&egrave;ne</span><br></strong>Aptitude du groupe &agrave; g&eacute;n&eacute;rer des id&eacute;es nouvelles et innovantes gr&acirc;ce &agrave; la diversit&eacute; des perspectives et &agrave; la combinaison des forces individuelles, permettant de surmonter les d&eacute;fis de mani&egrave;re originale.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>&harr;️ Coop&eacute;ration &amp; ↕️ Collaboration&nbsp;<span class=""badge badge-danger"">endog&egrave;ne</span> <span class=""badge badge-primary"">exog&egrave;ne</span><br></strong>Capacit&eacute; des membres &agrave; travailler ensemble, que ce soit de mani&egrave;re coordonn&eacute;e pour des t&acirc;ches distinctes ou en interaction &eacute;troite pour co-construire des solutions, avec une r&eacute;partition claire des r&ocirc;les et des responsabilit&eacute;s.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>🔀 Coordination <span class=""badge badge-primary"">exog&egrave;ne</span><br></strong>Organisation efficace des efforts collectifs, o&ugrave; les actions des membres sont align&eacute;es et synchronis&eacute;es pour atteindre un objectif commun, minimisant ainsi les redondances et les conflits.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>🔁&nbsp; Synergie <span class=""badge badge-danger"">endog&egrave;ne</span><br></strong>Emergence d'un r&eacute;sultat collectif sup&eacute;rieur &agrave; la somme des contributions individuelles, o&ugrave; l'interaction des membres g&eacute;n&egrave;re une valeur ajout&eacute;e significative.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>🔃 Stigmergie <span class=""badge badge-danger"">endog&egrave;ne</span><br></strong>M&eacute;canisme de coordination indirecte o&ugrave; les actions d'un membre influencent l'environnement, guidant ainsi les actions des autres, facilitant ainsi une auto-organisation efficace du groupe.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>⬅️ Instrumentation &amp; ➡️ Instrumentalisation <span class=""badge badge-danger"">endog&egrave;ne</span><br></strong>Utilisation strat&eacute;gique des outils, technologies, et m&eacute;thodes pour faciliter et am&eacute;liorer l'efficacit&eacute; collective, o&ugrave; chaque ressource est optimis&eacute;e en fonction des besoins sp&eacute;cifiques du groupe.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>🌟 Valorisation <span class=""badge badge-primary"">exog&egrave;ne</span><br></strong>Reconnaissance et appr&eacute;ciation des contributions de chaque membre, cr&eacute;ant un environnement o&ugrave; chacun se sent valoris&eacute;, motiv&eacute;, et encourag&eacute; &agrave; participer activement.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>🌬 Volition <span class=""badge badge-primary"">exog&egrave;ne</span><br></strong>D&eacute;termination collective &agrave; pers&eacute;v&eacute;rer face aux d&eacute;fis, &agrave; maintenir l'engagement et la motivation sur le long terme, et &agrave; surmonter les obstacles ensemble.</li>
+</ol>
+<p style=""text-align: justify;""><br>Le&nbsp;<strong><abbr class=""initialism"" title=""Sentiment d'Intelligences Collectives"">SIC</abbr></strong> est un concept &eacute;volutif et multidimensionnel, qui cherche &agrave; capturer la complexit&eacute; et la richesse des interactions humaines dans un cadre collectif. Il s'agit d'une mesure de la capacit&eacute; d'un groupe &agrave; non seulement fonctionner efficacement, mais aussi &agrave; atteindre des niveaux de performance qui transcendent les contributions individuelles, gr&acirc;ce &agrave; une synergie et une coordination optimales, soutenues par une communication fluide et une r&eacute;partition strat&eacute;gique des r&ocirc;les et des connaissances. Ce sentiment est essentiel pour comprendre et am&eacute;liorer la dynamique des groupes dans divers contextes, qu'il s'agisse de travail, d'apprentissage, ou d'innovation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>",1,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"behaviour,proficiency,competency,competency"
+,SIC22-B1,🧠 Cognition,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-C1.png"" alt=""Cognition"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-danger text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La cognition renvoie &agrave; la capacit&eacute; d&rsquo;un groupe &agrave; percevoir, traiter, et int&eacute;grer des informations de mani&egrave;re collective. Cela inclut la m&eacute;moire collective, le raisonnement partag&eacute;, et la r&eacute;solution de probl&egrave;mes en &eacute;quipe. La cognition collective permet de d&eacute;passer les capacit&eacute;s individuelles en mettant en commun les savoirs, les exp&eacute;riences et les perspectives des membres du groupe. Elle englobe &eacute;galement la&nbsp;<strong>cognition distribu&eacute;e</strong>, o&ugrave; les t&acirc;ches cognitives sont r&eacute;parties entre les individus, les outils, et les environnements.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-danger"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Raisonnement collectif et partage de perspectives</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;solution collaborative de probl&egrave;mes complexes</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Int&eacute;gration et synth&egrave;se des informations &agrave; l&rsquo;&eacute;chelle du groupe</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B2,💼 Compétences,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-C2.png"" alt=""Comp&eacute;tences"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-primary text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">Les comp&eacute;tences sont les aptitudes et les savoir-faire que les membres d'un groupe apportent et mettent en &oelig;uvre pour atteindre un objectif commun. Elles incluent &agrave; la fois des comp&eacute;tences techniques, comme l'utilisation d'outils sp&eacute;cifiques, et des comp&eacute;tences non techniques, telles que la gestion de projets ou la pens&eacute;e critique. Les comp&eacute;tences collectives se manifestent lorsque les membres d&rsquo;un groupe mobilisent efficacement leurs comp&eacute;tences individuelles dans un but partag&eacute;.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-primary"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Mise en application des comp&eacute;tences individuelles dans un cadre collectif</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Apprentissage collaboratif et partage des comp&eacute;tences</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Coordination des comp&eacute;tences pour l&rsquo;atteinte d&rsquo;un objectif commun</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B3,🎨 Créativité,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-C6.png"" alt=""Cr&eacute;ativit&eacute;"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-danger text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La cr&eacute;ativit&eacute; collective est la capacit&eacute; d'un groupe &agrave; g&eacute;n&eacute;rer des id&eacute;es nouvelles, &agrave; innover, et &agrave; trouver des solutions originales aux probl&egrave;mes. Elle repose sur la diversit&eacute; des perspectives et des approches des membres du groupe, qui se nourrissent mutuellement pour aboutir &agrave; des id&eacute;es innovantes. La cr&eacute;ativit&eacute; est essentielle pour surmonter les d&eacute;fis impr&eacute;vus et pour s&rsquo;adapter rapidement &agrave; des contextes changeants.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-danger"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">G&eacute;n&eacute;ration d&rsquo;id&eacute;es novatrices &agrave; partir de la collaboration</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Innovation par la combinaison de perspectives vari&eacute;es</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Encouragement de l&rsquo;exp&eacute;rimentation et de la prise de risques cr&eacute;atifs</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B4,"↔️ Coopération ","<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-C3.png"" alt=""Coop&eacute;ration"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-primary text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La coop&eacute;ration est le processus par lequel les membres d'un groupe travaillent ensemble de mani&egrave;re harmonieuse pour atteindre un objectif commun. Elle implique la r&eacute;partition des t&acirc;ches, la mise en commun des ressources, et la coordination des efforts. La coop&eacute;ration repose sur une communication claire et efficace, ainsi que sur la confiance mutuelle et le respect des contributions de chacun.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-primary"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Partage des responsabilit&eacute;s et des t&acirc;ches</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Aide mutuelle et soutien entre les membres du groupe</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Coordination des actions pour optimiser les r&eacute;sultats collectifs</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B5,↕️ Collaboration,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-C4.png"" alt=""Cognition"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-primary text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La collaboration va au-del&agrave; de la coop&eacute;ration en impliquant un travail conjoint plus &eacute;troit et interactif entre les membres d&rsquo;un groupe. Elle n&eacute;cessite une interaction continue, une prise de d&eacute;cision collective, et une co-construction des solutions. La collaboration est souvent essentielle dans les projets complexes o&ugrave; les comp&eacute;tences et les id&eacute;es de chaque membre doivent &ecirc;tre int&eacute;gr&eacute;es de mani&egrave;re dynamique pour r&eacute;ussir.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-primary"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Travail en &eacute;quipe &eacute;troit avec un partage actif des id&eacute;es et des ressources</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">D&eacute;cision collective et co-construction des solutions</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">R&eacute;solution collaborative des conflits et des divergences</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B6,🔀 Coordination,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-C5.png"" alt=""Cognition"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-primary text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La coordination est la capacit&eacute; d&rsquo;un groupe &agrave; organiser et &agrave; aligner les actions de ses membres pour atteindre un objectif de mani&egrave;re efficace et sans confusion. Elle implique la gestion des ressources, la synchronisation des activit&eacute;s, et la minimisation des redondances ou des conflits. Une bonne coordination assure que tous les membres du groupe travaillent en harmonie et que les efforts individuels sont dirig&eacute;s vers un objectif commun.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-primary"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Organisation et planification des t&acirc;ches collectives</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Synchronisation des efforts et des ressources</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Adaptation des strat&eacute;gies en fonction de l&rsquo;&eacute;volution des situations</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B7,🔁 Synergie,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-S1.png"" alt=""Cognition"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-danger text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La synergie se manifeste lorsque les interactions et les collaborations entre les membres d&rsquo;un groupe g&eacute;n&egrave;rent un r&eacute;sultat sup&eacute;rieur &agrave; la somme des contributions individuelles. Elle est le produit d&rsquo;une collaboration efficace, o&ugrave; les forces individuelles sont combin&eacute;es de mani&egrave;re &agrave; cr&eacute;er une dynamique positive et amplificatrice. La synergie est un indicateur cl&eacute; du succ&egrave;s des intelligences collectives.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-danger"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Cr&eacute;ation de valeur ajout&eacute;e par la combinaison des efforts individuels</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Amplification des r&eacute;sultats gr&acirc;ce &agrave; la compl&eacute;mentarit&eacute; des comp&eacute;tences</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Cultivation d&rsquo;une dynamique collective positive et &eacute;nergisante</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B8,🔃 Stigmergie,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-S2.png"" alt=""Cognition"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-danger text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La stigmergie est un m&eacute;canisme de coordination indirecte o&ugrave; les actions d&rsquo;un membre influencent l&rsquo;environnement, ce qui &agrave; son tour guide les actions des autres membres. Ce concept est particuli&egrave;rement pertinent dans les syst&egrave;mes o&ugrave; la coordination explicite est difficile ou impraticable. En intelligence collective, la stigmergie permet de maintenir un flux de travail fluide sans besoin de communication directe constante.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-danger"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Influence indirecte et guidage des actions par l&rsquo;environnement</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Adaptation aux signaux environnementaux cr&eacute;&eacute;s par les autres membres</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Autonomie dans l&rsquo;action tout en restant en phase avec le groupe</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B9,⬅️ Instrumentation,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-I1.png"" alt=""Cognition"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-danger text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">L&rsquo;instrumentation concerne l'utilisation d'outils, de technologies, ou de m&eacute;thodes pour faciliter ou am&eacute;liorer l'efficacit&eacute; des actions collectives. Elle inclut la ma&icirc;trise des outils de travail collaboratif et des technologies permettant la coordination &agrave; distance. Une bonne instrumentation est cruciale pour maximiser les capacit&eacute;s du groupe et surmonter les limitations mat&eacute;rielles ou logistiques.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-danger"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Ma&icirc;trise des outils technologiques et des m&eacute;thodes de travail collaboratif</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utilisation strat&eacute;gique des ressources pour soutenir les objectifs collectifs</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Adaptation des outils et des technologies en fonction des besoins du groupe</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B10,➡️ Instrumentalisation,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-I2.png"" alt=""Instrumentalisation"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-danger text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">L'instrumentalisation d&eacute;signe la mani&egrave;re dont les outils, les ressources, et les m&eacute;thodes sont employ&eacute;s pour atteindre un objectif pr&eacute;cis. Cela implique une compr&eacute;hension strat&eacute;gique des outils disponibles et une capacit&eacute; &agrave; les adapter aux besoins du groupe. Dans le contexte de l'intelligence collective, l'instrumentalisation concerne l'optimisation des ressources pour maximiser l'efficacit&eacute; et l'impact des actions collectives.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-danger"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Optimisation de l&rsquo;utilisation des ressources et des outils pour des objectifs pr&eacute;cis</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Application strat&eacute;gique des m&eacute;thodes pour maximiser les r&eacute;sultats</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Adaptation des strat&eacute;gies et des ressources en fonction des contextes sp&eacute;cifiques</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B11,🙌 Valorisation,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-V1.png"" alt=""Cognition"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-primary text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La valorisation consiste &agrave; reconna&icirc;tre, &agrave; appr&eacute;cier, et &agrave; encourager les contributions des membres du groupe. Cela inclut la reconnaissance formelle et informelle, ainsi que la cr&eacute;ation d&rsquo;un environnement o&ugrave; les membres se sentent valoris&eacute;s et motiv&eacute;s &agrave; participer. La valorisation est essentielle pour maintenir la motivation et l&rsquo;engagement dans un contexte collectif.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-primary"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Reconnaissance des efforts et des r&eacute;alisations des membres du groupe</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Cr&eacute;ation d&rsquo;un environnement positif et motivant</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Encouragement de l&rsquo;engagement et de la participation active</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
+,SIC22-B12,🌬 Volition,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../_mcf_SIC/assets/SIC-V2.png"" alt=""Volition"" width=""404px""></p>
+<div class=""container mb-3"">
+<div class=""card border-primary text-center"">
+<div class=""card-body shadow-lg"">
+<p class=""card-text"">La volition fait r&eacute;f&eacute;rence &agrave; la volont&eacute; et &agrave; la d&eacute;termination des membres d&rsquo;un groupe &agrave; poursuivre des actions collectives, m&ecirc;me face aux d&eacute;fis et aux obstacles. Elle englobe la pers&eacute;v&eacute;rance, l&rsquo;engagement &agrave; long terme, et la r&eacute;silience collective. La volition est un indicateur cl&eacute; de la capacit&eacute; d&rsquo;un groupe &agrave; maintenir son effort collectif jusqu&rsquo;&agrave; l&rsquo;atteinte de ses objectifs.</p>
+</div>
+</div>
+</div>
+<div class=""alert alert-primary"">
+<h1>🤹 Comportements pro sociaux</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Pers&eacute;v&eacute;rance collective face aux d&eacute;fis</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Engagement soutenu dans les projets collectifs</li>
+<li class=""list-group-item list-group-item-primary list-group-item-action"">Capacit&eacute; &agrave; maintenir la motivation et &agrave; surmonter les obstacles ensemble</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",1,,,,,,,,,
 SIC22-B1,SIC22-B1-P1,🌀 Comprendre les éléments de mon environnement,,1,,,,,,,,,
 SIC22-B1,SIC22-B1-P2,🎓 Apprendre à partir de nouvelles situations,,1,,,,,,,,,
 SIC22-B1,SIC22-B1-P3,♻️ M'adapter à de nouveaux contextes,,1,,,,,,,,,
@@ -23,11 +311,11 @@ SIC22-B2,SIC22-B2-P3,🧡 Mettre à contribution mes qualités humaines,"<p dir=
 SIC22-B3,SIC22-B3-P1,"✂️ Copier, m'inspirer, dupliquer...",,1,,,,,,,,,
 SIC22-B3,SIC22-B3-P2,"🔨 Transformer, créer, produire...",,1,,,,,,,,,
 SIC22-B3,SIC22-B3-P3,"⚖️ Combiner, associer, relier...",,1,,,,,,,,,
-SIC22-B4,SIC22-B4-P1,"🍕 Travailler individuellement sur une petite partie d'un travail de groupe qui est constitué de la ",,1,,,,,,,,,
+SIC22-B4,SIC22-B4-P1,🍕 Se répartir le travail et la tâche de manière harmonieuse,,1,,,,,,,,,
 SIC22-B5,SIC22-B5-P1,🤝 Me sentir responsable de la réussite (ou non) d'un travail collectif,,1,,,,,,,,,
 SIC22-B6,SIC22-B6-P1,🎯 Organiser des moyens pour distribuer le travail en fonction de la finalité à atteindre,,1,,,,,,,,,
 SIC22-B6,SIC22-B6-P2,🌌 Répartir des informations dans le temps et l'espace pour réussir à travailler collectivement,,1,,,,,,,,,
-SIC22-B7,SIC22-B7-P1,✨ Contribuer à un travail collectif en ressentant un résultat plus fort que si j'y avais travaillé t,,1,,,,,,,,,
+SIC22-B7,SIC22-B7-P1,✨ Contribuer par un travail à un un résultat collectif supérieur à la somme de ses contributions,,1,,,,,,,,,
 SIC22-B8,SIC22-B8-P1,🎆 Savoir ce que je dois faire dans un travail de groupe à partir de ce que les autres font,,1,,,,,,,,,
 SIC22-B9,SIC22-B9-P1,🔧 Modifier l'utilisation que j'ai d'un outil en fonction de ses potentialités et contraintes,,1,,,,,,,,,
 SIC22-B10,SIC22-B10-P1,⚙️ Adapter un outil en fonction de mes propres besoins,,1,,,,,,,,,
